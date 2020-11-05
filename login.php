@@ -8,6 +8,7 @@
 <body>
     <form action="">
         <input type="text" name="username" placeholder="Username"> <input type="password" name="password" placeholder="Password">
+        <button>Login</button>
     </form>
 </body>
 </html>
