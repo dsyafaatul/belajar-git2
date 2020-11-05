@@ -6,6 +6,8 @@
     <title>Login</title>
 </head>
 <body>
-    
+    <form action="">
+        <input type="text" name="username" placeholder="Username">
+    </form>
 </body>
 </html>
